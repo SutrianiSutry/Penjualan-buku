@@ -19,7 +19,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
     <nav>
       <ul>
         <li><a href="#">Home</a></li>
-            <li><a href="signup.php">signup</a></li>
+            <li><a href="signup.php">signub</a></li>
             <li><a href="#">Contact</a></li>
             <li><a href="logout.php">Logout</a></li>
       </ul>
