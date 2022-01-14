@@ -14,12 +14,12 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
      <section class="hero">
   <div class="box content">
     <header>
-         <a href="#" class="logo">Spark.</a>
+         <a href="#" class="logo">Kelompok1.</a>
     
     <nav>
       <ul>
         <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="signup.php">signup</a></li>
             <li><a href="#">Contact</a></li>
             <li><a href="logout.php">Logout</a></li>
       </ul>
