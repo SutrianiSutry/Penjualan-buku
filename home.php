@@ -32,7 +32,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['user_name'])) {
  </div>
     
     <ul class="socials">
-      <h2>Follow us on:</h2>
+      <h2></h2>
       <li><a href="#"><i class="fab fa-twitter"></i></a></li>
             <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
